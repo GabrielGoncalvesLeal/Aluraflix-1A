@@ -33,7 +33,7 @@ img{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 5px;
-    background-color: rgba(20, 80, 8, 0.281);
+    background-color: rgb(138, 184, 185);
 }
 .chamada-video{
     display: flex;
